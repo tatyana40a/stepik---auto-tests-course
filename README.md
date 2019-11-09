@@ -1,4 +1,4 @@
 # stepik---auto-tests-course
 Home works for course "Stepic. Automatization with Selenium on Python"
 
-Содержит домашние задания с курса Stepik "Автоматизация тестирования с помощью Selenium и Python" (https://stepik.org/course/575/syllabus)
+РЎРѕРґРµСЂР¶РёС‚ РґРѕРјР°С€РЅРёРµ Р·Р°РґР°РЅРёСЏ СЃ РєСѓСЂСЃР° Stepik "РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ СЃ РїРѕРјРѕС‰СЊСЋ Selenium Рё Python" (https://stepik.org/course/575/syllabus)
